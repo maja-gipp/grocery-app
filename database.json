@@ -1,0 +1,62 @@
+{
+  "groceryLists": [
+    {
+      "id": 1,
+      "title": "Ciuchy",
+      "shopId": 2
+    },
+    {
+      "id": 2,
+      "title": "Spożywczak",
+      "shopId": 2
+    },
+    {
+      "id": 3,
+      "title": "Obi"
+    },
+    {
+      "title": "Next list",
+      "id": 5
+    }
+  ],
+  "groceries": [
+    {
+      "item": "Gwoździe",
+      "complete": false,
+      "groceryListId": 3,
+      "id": 4
+    },
+    {
+      "item": "Młotek",
+      "complete": true,
+      "groceryListId": 3,
+      "id": 5
+    }
+  ],
+  "shops": [
+    {
+      "name": "jysk",
+      "id": 1,
+      "position": [
+        51.505,
+        -0.09
+      ]
+    },
+    {
+      "name": "Biedronka",
+      "id": 2,
+      "position": [
+        52.505,
+        -0.09
+      ]
+    },
+    {
+      "name": "Stonka",
+      "id": 3
+    },
+    {
+      "name": "Koza",
+      "id": 4
+    }
+  ]
+}
